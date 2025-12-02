@@ -1,3 +1,3 @@
 # GAG-VAULT
 
-To 
+Escrow Site for Gig-Workers.
